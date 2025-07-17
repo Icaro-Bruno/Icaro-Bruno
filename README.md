@@ -1,8 +1,8 @@
-**Desenvolvedor Java | Soluções web com foco em delivery e pequenos negócios**
+**Desenvolvedor Java**
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na Uninter e venho me dedicando ao desenvolvimento de aplicações web utilizando Java, Spring Boot, Thymeleaf, JavaScript e MySQL/PostgreSQL.
 
-Tenho experiência prática com freelas voltados para pequenos comércios, principalmente lanchonetes e serviços de entrega. Procuro sempre entregar soluções simples de usar, com visual limpo, boa usabilidade e foco no que o cliente realmente precisa.
+Tenho experiência prática com freelas voltados para comércios, principalmente lanchonetes e serviços de entrega. Procuro sempre entregar soluções simples de usar, com visual limpo, boa usabilidade e foco no que o cliente realmente precisa.
 
 ---
 
@@ -13,8 +13,11 @@ Tenho experiência prática com freelas voltados para pequenos comércios, princ
 Uma aplicação desenvolvida com foco total em dispositivos móveis, com:
 
 - Login via Google (OAuth2)
-- Carrinho de compras com promoções ativas
-- Painel de pedidos em tempo real
+- CRUD no backend
+- Carrinho de compras
+- Produtos
+- Painel de pedidos
+- Menu
 - Interface adaptada para diferentes tamanhos de tela(mobile)
 
 🔗 [Acessar o projeto](https://coffe-ikro.onrender.com)  
@@ -27,7 +30,7 @@ Uma aplicação desenvolvida com foco total em dispositivos móveis, com:
 - Java + Spring Boot
 - Thymeleaf, HTML, CSS, JavaScript
 - JPA/Hibernate
-- PostgreSQL e MySQL
+- PostgreSQL e MySQL no geral
 - Deploys com Render e Railway
 
 ---
