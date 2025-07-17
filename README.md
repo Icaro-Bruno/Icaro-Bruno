@@ -17,7 +17,7 @@ Uma aplicação desenvolvida com foco total em dispositivos móveis, com:
 - Login via Google (OAuth2)
 - Carrinho de compras com promoções ativas
 - Painel de pedidos em tempo real
-- Interface adaptada para diferentes tamanhos de tela
+- Interface adaptada para diferentes tamanhos de tela(mobile)
 
 🔗 [Acessar o projeto](https://coffe-ikro.onrender.com)  
 📁 [Ver o repositório](https://github.com/ikrobr/coffee_ikro)
