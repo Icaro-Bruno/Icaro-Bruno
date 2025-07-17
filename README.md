@@ -1,5 +1,3 @@
-### Ícaro Bruno
-
 **Desenvolvedor Java | Soluções web com foco em delivery e pequenos negócios**
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na Uninter e venho me dedicando ao desenvolvimento de aplicações web utilizando Java, Spring Boot, Thymeleaf, JavaScript e MySQL/PostgreSQL.
