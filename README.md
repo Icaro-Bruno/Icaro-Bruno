@@ -1,6 +1,6 @@
 **Desenvolvedor Java**
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Uninter e venho me dedicando ao desenvolvimento de aplicações web utilizando Java, Spring Boot, Thymeleaf, JavaScript e MySQL/PostgreSQL.
+Atualmente curso graduação em Análise e Desenvolvimento de Sistemas na Uninter e venho me dedicando ao desenvolvimento de aplicações web utilizando Java, Spring Boot, Thymeleaf, JavaScript e MySQL(PostgreSQL).
 
 Tenho experiência prática com freelas voltados para comércios, principalmente lanchonetes e serviços de entrega. Procuro sempre entregar soluções simples de usar, com visual limpo, boa usabilidade e foco no que o cliente realmente precisa.
 
@@ -42,5 +42,5 @@ Uma aplicação desenvolvida com foco total em dispositivos móveis, com:
 
 ---
 
-📌 Busco oportunidades como dev backend ou fullstack Java.  
-Tenho interesse especial em trabalhar com projetos reais que impactem pequenos negócios.
+📌 Busco oportunidades como dev backend(java) ou fullstack.  
+Tenho interesse especial em trabalhar com projetos reais que adicione algo de bom no dia a dia dos usuários.
