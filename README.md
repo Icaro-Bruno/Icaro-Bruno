@@ -38,9 +38,9 @@ Uma aplicação desenvolvida com foco em responsividade e UX, com:
 ### 📬 Contato
 
 - Email: **ikrobr.dev@gmail.com**  
-- WhatsApp: [79 99611-0416](https://wa.me/5579996110416)
+- WhatsApp: [75 99927-8099](https://wa.me/5575999278099)
 
 ---
 
-📌 Busco oportunidades como dev backend(java) ou fullstack.  
+📌 Busco oportunidades/estágios como dev backend ou fullstack.  
 Tenho interesse especial em trabalhar com projetos reais que adicione algo de bom no dia a dia dos usuários.
