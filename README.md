@@ -10,7 +10,7 @@ Tenho experiência prática com freelas voltados para comércios, principalmente
 
 #### Coffee Ikro – sistema de delivery local
 
-Uma aplicação desenvolvida com foco total em dispositivos móveis, com:
+Uma aplicação desenvolvida com foco em responsividade e UX, com:
 
 - Login via Google (OAuth2)
 - CRUD no backend
@@ -18,10 +18,10 @@ Uma aplicação desenvolvida com foco total em dispositivos móveis, com:
 - Produtos
 - Painel de pedidos
 - Menu
-- Interface adaptada para diferentes tamanhos de tela(mobile)
+- Interface adaptada para diferentes tamanhos de tela
 
 🔗 [Acessar o projeto](https://coffe-ikro.onrender.com)  
-📁 [Ver o repositório](https://github.com/ikrobr/coffee_ikro)
+📁 [Ver o repositório](https://github.com/icaro-bruno/coffee_ikro)
 
 ---
 
